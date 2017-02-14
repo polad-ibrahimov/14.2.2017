@@ -1,0 +1,7 @@
+Visual Studio Code
+Visual Studio Code, debug xüsusiyyətləriylə inkişaf etmiş web və bulud tətbiqləri üstündə kodları tənzimləməyə, yenidən təyin etməyə və optimize etməyə yarayır.
+Studio koddan istədiyimiz kimi istifadə edə bilərik, kodları araşdıra və öz ehtiyaclarımıza görə dəyişmə edə bilərik.
+Tətbiqi, çoxlu platforma dəstəyinə sahib olduğu üçün Linux, Mac OS X və Windows üzərində çalışır və təxminən 30 proqramlaşdırma dili dəstəyi təqdim edir.
+Visual Studio Code, Mac OS X, Linux və Windows əməliyyat sistemlərində CoreCLR və ASP.NET 5 tətbiqləri inkişaf etdirmək və digər dilləri dəstəkləmək üçün təqdim edilən bir kod tənzimləmə proqramıdır. 
+Kodlar arasında əlaqələndirmə etməsi və kodu yazım əsnasında problemlər haqqında məlumat verməsi, proqramçıya çox asanlıq təmin edir.
+Visual Studio Code'un təqdim etdiyi xüsusiyyətlər sayəsində yazdığımız kod üstündə kəsmə nöqtələri müəyyən edir, xüsusi vəziyyətlərdə dəyişənləri izləyə və kodumuzu addım addım irəlilədə bilər. Git vasitələri sayəsində birdən çox iştirakçının olduğu layihələr üçün də böyük asanlıq təmin edər. Hər hansı bir uzaq serverə (GitHub, Azure Web Apps, Visual Studio Team Services və s.) Kodu checkin / checkout edərək Git üzərində əlaqə qurmağa imkan verir.
